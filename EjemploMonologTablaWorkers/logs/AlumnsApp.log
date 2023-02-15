@@ -1,0 +1,6 @@
+[2022-11-22T18:58:29.256078+01:00] LogAlumnos.WARNING: Se ha creado un alumno de 23 años [] []
+[2022-11-22T18:58:29.259498+01:00] LogAlumnos.ERROR: Es un error la creación del objeto alumno [] []
+[2022-11-22T18:58:29.259799+01:00] LogAlumnos.CRITICAL: Es crítico la creación de este objeto alumno [] []
+[2022-11-22T19:03:50.361257+01:00] LogAlumnos.WARNING: Se ha creado un alumno de 23 años [] []
+[2022-11-22T19:03:50.382733+01:00] LogAlumnos.ERROR: Es un error la creación del objeto alumno [] []
+[2022-11-22T19:03:50.385377+01:00] LogAlumnos.CRITICAL: Es crítico la creación de este objeto alumno [] []

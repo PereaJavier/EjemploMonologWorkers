@@ -1,0 +1,20 @@
+{
+    "name": "jperea/mi-prueba-con-composer",
+    "description": "Mis pruebas con DAW2 y composer",
+    "type": "project",
+    "require": {
+        "intervention/image": "^2.7",
+        "monolog/monolog": "^2.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jperea\\MiPruebaConComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "PereaJavier",
+            "email": "javvier1996@gmail.com"
+        }
+    ]
+}
